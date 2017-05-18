@@ -1,0 +1,17 @@
+body {
+  color: #FFF;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  text-align: center;
+  background: #474d5d;
+  width: 100%;
+  margin: 0;
+  margin-top: 10px;
+  padding: 0;
+  overflow-x: hidden;
+}
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+}
